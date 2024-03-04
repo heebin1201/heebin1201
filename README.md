@@ -2,14 +2,14 @@
 I'm Heebin. I'm a Product Manager in the AI field.
 
 ### A little more about me...
-'''const Heebin = {
+```
+const Heebin = {
   contact : "polaire2019@gmail.com" | "https://github.com/heebin1201",
   code : [Python],
   tools : [Figma, SQL, Blender, CLO3D, Unity, substance painter],
   extra : [Pytorch, OpenCV, Git, Notion, Slack],
 }
-'''
-
+```
 <!--
 **heebin1201/heebin1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
