@@ -7,7 +7,8 @@ I'm Heebin. I'm a Product Manager in the AI field.
   code : [Python],
   tools : [Figma, SQL, Blender, CLO3D, Unity, substance painter],
   extra : [Pytorch, OpenCV, Git, Notion, Slack],
-}'''
+}
+'''
 
 <!--
 **heebin1201/heebin1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
